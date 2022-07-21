@@ -103,7 +103,7 @@ send body request like this:
 ```json
 {
   "value": 25.45,
-  "descript": "cheesecake"
+  "description": "cheesecake"
 }
 ```
 
