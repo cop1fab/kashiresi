@@ -5,8 +5,12 @@
   "description": "An expense management app (database)",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_ENV=prod node src/server.js",
-    "start:dev": "NODE_ENV=dev nodemon src/server.js",
+    //better to delete the below scripts and comments and remain with windows scripts
+    //"start": "NODE_ENV=prod node src/server.js",
+    //"start:dev": "NODE_ENV=dev nodemon src/server.js",
+    //for windows users
+     "start": "SET NODE_ENV=prod & node src/server.js",
+    "start:dev": "SET NODE_ENV=dev & nodemon src/server.js",
     "test": "NODE_ENV=test npx jest"
   },
   "repository": {
