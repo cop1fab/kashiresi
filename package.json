@@ -1,8 +1,8 @@
 {
-  "name": "mywallet_back",
+  "name": "Kashiresi",
   "type": "module",
   "version": "1.0.0",
-  "description": "An expense management app (database)",
+  "description": "An app that allows users to manage expenses",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=prod node src/server.js",
@@ -14,7 +14,8 @@
     "url": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "Copain Fabrice Bienaime",
+  "contributors": "Joel Atiamutu",
   "license": "ISC",
   "bugs": {
     "url": ""

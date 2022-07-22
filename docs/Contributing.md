@@ -15,6 +15,9 @@ To get an overview of the project, read the [README](README.md). Here are some r
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
+### Playbook 
+
+Please ensure you read the [Engineering playbook](./Engineering_playbook.md) to follow the best standards when working in a team. 
 ### Issues
 
 #### Create a new issue
